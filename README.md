@@ -1,1 +1,1 @@
-learning
+This repository is about stuff that I'm training/learning
